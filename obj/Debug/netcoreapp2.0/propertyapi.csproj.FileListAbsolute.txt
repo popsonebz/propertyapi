@@ -1,0 +1,10 @@
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/bin/Debug/netcoreapp2.0/propertyapi.deps.json
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/bin/Debug/netcoreapp2.0/propertyapi.runtimeconfig.json
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/bin/Debug/netcoreapp2.0/propertyapi.runtimeconfig.dev.json
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/bin/Debug/netcoreapp2.0/propertyapi.dll
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/bin/Debug/netcoreapp2.0/propertyapi.pdb
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/obj/Debug/netcoreapp2.0/propertyapi.csproj.CoreCompileInputs.cache
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/obj/Debug/netcoreapp2.0/propertyapi.AssemblyInfoInputs.cache
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/obj/Debug/netcoreapp2.0/propertyapi.AssemblyInfo.cs
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/obj/Debug/netcoreapp2.0/propertyapi.dll
+/Users/popoolaebenezer/Projects/Fresh/propertyapi/obj/Debug/netcoreapp2.0/propertyapi.pdb
